@@ -1,0 +1,37 @@
+#VRML_SIM V8.5 utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.35875346 -0.86166438 -0.35892958 1.687002
+  position 3.2804506 5.6966411 -0.20674971
+}
+Floor {
+  size 30 30
+}
+DirectionalLight {
+  direction 0 -1 0
+}
+DEF BALL SoccerBall {
+}
+DEF Locator Supervisor {
+  children [
+    Emitter {
+    }
+  ]
+  controller "ball_locator"
+}
+DEF ramp Ramp30deg {
+  translation 0 0 -2.84
+  rotation 0 1 0 2.7439647
+}
+DEF Shooter Supervisor {
+  controller "sample_supervisor"
+}
+DEF ROBOT Nao {
+  translation 9.8 0.3326422 0.064863879
+  rotation -8.5674897e-05 0.70712994 0.70708361 3.1417671
+  controller "keeper"
+}
+CustomRobotstadiumGoal {
+  translation 10 0 0
+}

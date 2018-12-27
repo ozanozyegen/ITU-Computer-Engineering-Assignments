@@ -1,0 +1,7 @@
+Webots Proto Cache File version 1.2
+protoFileHash: 7af3455f0a43f0f65ade53c4c5558246
+containsDevices: 0
+baseType: Solid
+slotType: 
+parameters: translation,rotation,postRadius,frameColor
+info: Robot\ssoccer\sgoal\sinspired\sfrom\sthe\sRoboCup\s2013-2014\sStandard\sPlatform\sLeague\nThe\scolor\sof\sthe\sgoal\sand\sthe\ssupport\spolygons\scan\sbe\smodified.

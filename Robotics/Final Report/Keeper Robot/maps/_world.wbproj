@@ -1,0 +1,13 @@
+Webots Project File version 8.5
+perspectives: 000000ff00000000fd00000003000000000000030400000298fc0100000001fb0000001a0044006f00630075006d0065006e0074006100740069006f006e0000000000ffffffff0000005400ffffff00000001000001f8000001c3fc0200000001fb0000001400540065007800740045006400690074006f00720100000015000001c30000009d00ffffff0000000300000556000000cffc0100000001fb0000000e0043006f006e0073006f006c00650100000000000005560000005400ffffff00000358000001c300000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff0000000100000002000001000000032d0100000006010000000100
+sceneTreePerspectives: 000000ff0000000100000002000000c0000000a90100000006010000000200
+minimizedPerspectives: 
+maximizedDockId: -1
+centralWidgetVisible: 1
+orthographicViewHeight: 1
+textFiles: 2 "controllers/collapse/collapse.c" "controllers/walker/walker.c" "controllers/keeper/keeper.c" "maps/world.wbt" "controllers/sample_supervisor/sample_supervisor.c" "../../../../../../../Program Files/Webots/projects/objects/robotstadium/protos/CustomRobotstadiumGoal.proto"
+documentationBook: 
+documentationPage: 
+renderingDevicePerspectives: 139;0;1;0;0
+renderingDevicePerspectives: 138;1;1;0;0
